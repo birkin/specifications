@@ -749,35 +749,6 @@ signatures:
       datastream_details:
       - id: ZIP
         mime_type: application/zip
-  pdf_object_definition_d9a0fc4ce6db:
-    signature_hash: d9a0fc4ce6db
-    label: pdf object definition
-    description: Observed pdf object definition through public BDR API sampling.
-    exemplar_pids:
-    - bdr:419508
-    - bdr:733505
-    - bdr:792644
-    signature:
-      object_type: pdf
-      typeOfResource: dissertations
-      has_parent: false
-      has_children: false
-      is_ordered: false
-      datastream_ids:
-      - DC
-      - EXTRACTED_TEXT
-      - MODS
-      - PDF
-      - RELS-EXT
-      - RELS-INT
-      - irMetadata
-      - rightsMetadata
-      - thumbnail
-      datastream_details:
-      - id: EXTRACTED_TEXT
-        mime_type: text/plain
-      - id: PDF
-        mime_type: application/pdf
   pdf_object_definition_8f00c305e2f9:
     signature_hash: 8f00c305e2f9
     label: pdf object definition
@@ -803,8 +774,57 @@ signatures:
       datastream_details:
       - id: PDF
         mime_type: application/pdf
-  pdf_object_definition_f1771ab8cd82:
-    signature_hash: f1771ab8cd82
+  pdf_object_definition_428654d5f39a:
+    signature_hash: 428654d5f39a
+    label: pdf object definition
+    description: Observed pdf object definition through public BDR API sampling.
+    exemplar_pids:
+    - bdr:dxnq989m
+    signature:
+      object_type: pdf
+      typeOfResource: dissertations
+      has_parent: false
+      has_children: false
+      is_ordered: false
+      datastream_ids:
+      - MODS
+      - PDF
+      - RELS-EXT
+      - RELS-INT
+      - irMetadata
+      - rightsMetadata
+      datastream_details:
+      - id: PDF
+        mime_type: application/pdf
+  pdf_object_definition_153ad4a40f79:
+    signature_hash: 153ad4a40f79
+    label: pdf object definition
+    description: Observed pdf object definition through public BDR API sampling.
+    exemplar_pids:
+    - bdr:419508
+    - bdr:733505
+    - bdr:792644
+    signature:
+      object_type: pdf
+      typeOfResource: dissertations
+      has_parent: false
+      has_children: false
+      is_ordered: false
+      datastream_ids:
+      - DC
+      - EXTRACTED_TEXT
+      - MODS
+      - PDF
+      - RELS-EXT
+      - RELS-INT
+      - irMetadata
+      - rightsMetadata
+      - thumbnail
+      datastream_details:
+      - id: PDF
+        mime_type: application/pdf
+  pdf_object_definition_06b6c7b9f1ef:
+    signature_hash: 06b6c7b9f1ef
     label: pdf object definition
     description: Observed pdf object definition through public BDR API sampling.
     exemplar_pids:
@@ -825,30 +845,6 @@ signatures:
       - irMetadata
       - rightsMetadata
       - thumbnail
-      datastream_details:
-      - id: EXTRACTED_TEXT
-        mime_type: text/plain
-      - id: PDF
-        mime_type: application/pdf
-  pdf_object_definition_428654d5f39a:
-    signature_hash: 428654d5f39a
-    label: pdf object definition
-    description: Observed pdf object definition through public BDR API sampling.
-    exemplar_pids:
-    - bdr:dxnq989m
-    signature:
-      object_type: pdf
-      typeOfResource: dissertations
-      has_parent: false
-      has_children: false
-      is_ordered: false
-      datastream_ids:
-      - MODS
-      - PDF
-      - RELS-EXT
-      - RELS-INT
-      - irMetadata
-      - rightsMetadata
       datastream_details:
       - id: PDF
         mime_type: application/pdf
