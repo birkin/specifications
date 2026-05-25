@@ -14,7 +14,7 @@ signatures:
     - bdr:1104403
     - bdr:1104404
     - bdr:1104406
-    observed_count: 99
+    observed_count: 96
     signature:
       has_children: false
       ordered_children: false
@@ -24,7 +24,9 @@ signatures:
     description: Observed parent with ordered children through public BDR API sampling.
     exemplar_pids:
     - bdr:7dmq3aws
-    observed_count: 1
+    - bdr:1054581
+    - bdr:1067034
+    observed_count: 4
     signature:
       has_children: true
       ordered_children: true

@@ -261,3 +261,513 @@ signatures:
         visibility: b1e37c0c0392
         auxiliary_relationships: 2a72e0d30047
     component_hashes: *id017
+  standalone_zip_7e7932ddfe65:
+    signature_hash: 7e7932ddfe65
+    label: standalone zip
+    description: Observed composite architecture through public BDR API sampling.
+    exemplar_pids: []
+    observed_count: 44
+    signature:
+      component_hashes: &id018
+        parent_relationship: fb640bf2e6f3
+        parent_object_definition: 18587cf6b348
+        children: c382515fc824
+        open_access: 8066ff4b9eda
+        visibility: b1e37c0c0392
+        auxiliary_relationships: 2a72e0d30047
+    component_hashes: *id018
+  standalone_zip_4ae842191f11:
+    signature_hash: 4ae842191f11
+    label: standalone zip
+    description: Observed composite architecture through public BDR API sampling.
+    exemplar_pids: []
+    observed_count: 8
+    signature:
+      component_hashes: &id019
+        parent_relationship: fb640bf2e6f3
+        parent_object_definition: 18587cf6b348
+        children: c382515fc824
+        open_access: c5a534984db5
+        visibility: b1e37c0c0392
+        auxiliary_relationships: 2a72e0d30047
+    component_hashes: *id019
+  standalone_zip_eb52cd2a6c03:
+    signature_hash: eb52cd2a6c03
+    label: standalone zip
+    description: Observed composite architecture through public BDR API sampling.
+    exemplar_pids: []
+    observed_count: 6
+    signature:
+      component_hashes: &id020
+        parent_relationship: fb640bf2e6f3
+        parent_object_definition: 18587cf6b348
+        children: c382515fc824
+        open_access: 74618c114dfb
+        visibility: b1e37c0c0392
+        auxiliary_relationships: 2a72e0d30047
+    component_hashes: *id020
+  standalone_zip_63659420660e:
+    signature_hash: 63659420660e
+    label: standalone zip
+    description: Observed composite architecture through public BDR API sampling.
+    exemplar_pids: []
+    observed_count: 5
+    signature:
+      component_hashes: &id021
+        parent_relationship: fb640bf2e6f3
+        parent_object_definition: 18587cf6b348
+        children: c382515fc824
+        open_access: 61d1d170acad
+        visibility: b1e37c0c0392
+        auxiliary_relationships: 2a72e0d30047
+    component_hashes: *id021
+  standalone_zip_722576cd20c8:
+    signature_hash: 722576cd20c8
+    label: standalone zip
+    description: Observed composite architecture through public BDR API sampling.
+    exemplar_pids: []
+    observed_count: 3
+    signature:
+      component_hashes: &id022
+        parent_relationship: fb640bf2e6f3
+        parent_object_definition: 7fe4397b2f77
+        children: c382515fc824
+        open_access: 00a4aac03709
+        visibility: b1e37c0c0392
+        auxiliary_relationships: 2a72e0d30047
+    component_hashes: *id022
+  standalone_pdf_a79869934868:
+    signature_hash: a79869934868
+    label: standalone pdf
+    description: Observed composite architecture through public BDR API sampling.
+    exemplar_pids: []
+    observed_count: 3
+    signature:
+      component_hashes: &id023
+        parent_relationship: fb640bf2e6f3
+        parent_object_definition: 02c0575c12ae
+        children: c382515fc824
+        open_access: 61d1d170acad
+        visibility: b1e37c0c0392
+        auxiliary_relationships: 2a72e0d30047
+    component_hashes: *id023
+  standalone_zip_9b20088b8ba8:
+    signature_hash: 9b20088b8ba8
+    label: standalone zip
+    description: Observed composite architecture through public BDR API sampling.
+    exemplar_pids: []
+    observed_count: 2
+    signature:
+      component_hashes: &id024
+        parent_relationship: fb640bf2e6f3
+        parent_object_definition: 18587cf6b348
+        children: c382515fc824
+        open_access: afb26eed3585
+        visibility: b1e37c0c0392
+        auxiliary_relationships: 2a72e0d30047
+    component_hashes: *id024
+  standalone_zip_99b0502c0950:
+    signature_hash: 99b0502c0950
+    label: standalone zip
+    description: Observed composite architecture through public BDR API sampling.
+    exemplar_pids: []
+    observed_count: 2
+    signature:
+      component_hashes: &id025
+        parent_relationship: fb640bf2e6f3
+        parent_object_definition: 18587cf6b348
+        children: c382515fc824
+        open_access: 17a27c6502c8
+        visibility: b1e37c0c0392
+        auxiliary_relationships: 2a72e0d30047
+    component_hashes: *id025
+  standalone_zip_030aa4387862:
+    signature_hash: 030aa4387862
+    label: standalone zip
+    description: Observed composite architecture through public BDR API sampling.
+    exemplar_pids: []
+    observed_count: 2
+    signature:
+      component_hashes: &id026
+        parent_relationship: fb640bf2e6f3
+        parent_object_definition: 18587cf6b348
+        children: c382515fc824
+        open_access: 6dcc9fdef493
+        visibility: b1e37c0c0392
+        auxiliary_relationships: 2a72e0d30047
+    component_hashes: *id026
+  undetermined_with_3_child_definition_types_ae223887f83c:
+    signature_hash: ae223887f83c
+    label: undetermined with 3 child definition types
+    description: Observed composite architecture through public BDR API sampling.
+    exemplar_pids: []
+    observed_count: 1
+    signature:
+      component_hashes: &id027
+        parent_relationship: 38be23280f8a
+        parent_object_definition: bb0a46fa01b7
+        children: ab595983c3eb
+        open_access: 74618c114dfb
+        visibility: b1e37c0c0392
+        auxiliary_relationships: 2a72e0d30047
+    component_hashes: *id027
+  zip_with_1_child_definition_type_84d62a258ebe:
+    signature_hash: 84d62a258ebe
+    label: zip with 1 child definition type
+    description: Observed composite architecture through public BDR API sampling.
+    exemplar_pids: []
+    observed_count: 1
+    signature:
+      component_hashes: &id028
+        parent_relationship: 38be23280f8a
+        parent_object_definition: 27268e2c802a
+        children: df078ccd1512
+        open_access: 74618c114dfb
+        visibility: b1e37c0c0392
+        auxiliary_relationships: 2a72e0d30047
+    component_hashes: *id028
+  standalone_pdf_627b614b8332:
+    signature_hash: 627b614b8332
+    label: standalone pdf
+    description: Observed composite architecture through public BDR API sampling.
+    exemplar_pids: []
+    observed_count: 1
+    signature:
+      component_hashes: &id029
+        parent_relationship: fb640bf2e6f3
+        parent_object_definition: 02c0575c12ae
+        children: c382515fc824
+        open_access: 00a4aac03709
+        visibility: b1e37c0c0392
+        auxiliary_relationships: 2a72e0d30047
+    component_hashes: *id029
+  standalone_zip_7da3d15a7ea3:
+    signature_hash: 7da3d15a7ea3
+    label: standalone zip
+    description: Observed composite architecture through public BDR API sampling.
+    exemplar_pids: []
+    observed_count: 1
+    signature:
+      component_hashes: &id030
+        parent_relationship: fb640bf2e6f3
+        parent_object_definition: c813b7853266
+        children: c382515fc824
+        open_access: afb26eed3585
+        visibility: b1e37c0c0392
+        auxiliary_relationships: 2a72e0d30047
+    component_hashes: *id030
+  tar_with_1_child_definition_type_b0ff267d6a2c:
+    signature_hash: b0ff267d6a2c
+    label: tar with 1 child definition type
+    description: Observed composite architecture through public BDR API sampling.
+    exemplar_pids: []
+    observed_count: 1
+    signature:
+      component_hashes: &id031
+        parent_relationship: 38be23280f8a
+        parent_object_definition: 9de7cdd3f33b
+        children: df078ccd1512
+        open_access: b91545ed340f
+        visibility: b1e37c0c0392
+        auxiliary_relationships: 2a72e0d30047
+    component_hashes: *id031
+  standalone_xlsx_763162be3b4f:
+    signature_hash: 763162be3b4f
+    label: standalone xlsx
+    description: Observed composite architecture through public BDR API sampling.
+    exemplar_pids: []
+    observed_count: 1
+    signature:
+      component_hashes: &id032
+        parent_relationship: fb640bf2e6f3
+        parent_object_definition: 4714b80e9e9c
+        children: c382515fc824
+        open_access: 74618c114dfb
+        visibility: b1e37c0c0392
+        auxiliary_relationships: 2a72e0d30047
+    component_hashes: *id032
+  pdf_with_1_child_definition_type_ac8291ce40d1:
+    signature_hash: ac8291ce40d1
+    label: pdf with 1 child definition type
+    description: Observed composite architecture through public BDR API sampling.
+    exemplar_pids: []
+    observed_count: 1
+    signature:
+      component_hashes: &id033
+        parent_relationship: 38be23280f8a
+        parent_object_definition: a36a50a61046
+        children: b4d781591f78
+        open_access: 74618c114dfb
+        visibility: b1e37c0c0392
+        auxiliary_relationships: 2a72e0d30047
+    component_hashes: *id033
+  standalone_zip_fa8034d3f5c7:
+    signature_hash: fa8034d3f5c7
+    label: standalone zip
+    description: Observed composite architecture through public BDR API sampling.
+    exemplar_pids: []
+    observed_count: 1
+    signature:
+      component_hashes: &id034
+        parent_relationship: fb640bf2e6f3
+        parent_object_definition: 7fe4397b2f77
+        children: c382515fc824
+        open_access: 74618c114dfb
+        visibility: b1e37c0c0392
+        auxiliary_relationships: 2a72e0d30047
+    component_hashes: *id034
+  standalone_zip_41d8ab7f4521:
+    signature_hash: 41d8ab7f4521
+    label: standalone zip
+    description: Observed composite architecture through public BDR API sampling.
+    exemplar_pids: []
+    observed_count: 1
+    signature:
+      component_hashes: &id035
+        parent_relationship: fb640bf2e6f3
+        parent_object_definition: 7fe4397b2f77
+        children: c382515fc824
+        open_access: afb26eed3585
+        visibility: b1e37c0c0392
+        auxiliary_relationships: 2a72e0d30047
+    component_hashes: *id035
+  standalone_zip_64aeaecef8f2:
+    signature_hash: 64aeaecef8f2
+    label: standalone zip
+    description: Observed composite architecture through public BDR API sampling.
+    exemplar_pids: []
+    observed_count: 1
+    signature:
+      component_hashes: &id036
+        parent_relationship: fb640bf2e6f3
+        parent_object_definition: d3b2b0871948
+        children: c382515fc824
+        open_access: 74618c114dfb
+        visibility: b1e37c0c0392
+        auxiliary_relationships: 2a72e0d30047
+    component_hashes: *id036
+  standalone_zip_3f02ef17809a:
+    signature_hash: 3f02ef17809a
+    label: standalone zip
+    description: Observed composite architecture through public BDR API sampling.
+    exemplar_pids: []
+    observed_count: 1
+    signature:
+      component_hashes: &id037
+        parent_relationship: fb640bf2e6f3
+        parent_object_definition: 9f206c5e8909
+        children: c382515fc824
+        open_access: afb26eed3585
+        visibility: b1e37c0c0392
+        auxiliary_relationships: 2a72e0d30047
+    component_hashes: *id037
+  standalone_zip_a6de98fc4229:
+    signature_hash: a6de98fc4229
+    label: standalone zip
+    description: Observed composite architecture through public BDR API sampling.
+    exemplar_pids: []
+    observed_count: 1
+    signature:
+      component_hashes: &id038
+        parent_relationship: fb640bf2e6f3
+        parent_object_definition: 6fc35db2fc8b
+        children: c382515fc824
+        open_access: 74618c114dfb
+        visibility: b1e37c0c0392
+        auxiliary_relationships: 2a72e0d30047
+    component_hashes: *id038
+  standalone_zip_b221f1a16b69:
+    signature_hash: b221f1a16b69
+    label: standalone zip
+    description: Observed composite architecture through public BDR API sampling.
+    exemplar_pids: []
+    observed_count: 1
+    signature:
+      component_hashes: &id039
+        parent_relationship: fb640bf2e6f3
+        parent_object_definition: 6fc35db2fc8b
+        children: c382515fc824
+        open_access: afb26eed3585
+        visibility: b1e37c0c0392
+        auxiliary_relationships: 2a72e0d30047
+    component_hashes: *id039
+  standalone_zip_d482d76b6766:
+    signature_hash: d482d76b6766
+    label: standalone zip
+    description: Observed composite architecture through public BDR API sampling.
+    exemplar_pids: []
+    observed_count: 1
+    signature:
+      component_hashes: &id040
+        parent_relationship: fb640bf2e6f3
+        parent_object_definition: 7fe4397b2f77
+        children: c382515fc824
+        open_access: 61d1d170acad
+        visibility: b1e37c0c0392
+        auxiliary_relationships: 2a72e0d30047
+    component_hashes: *id040
+  standalone_zip_b257f84f1a06:
+    signature_hash: b257f84f1a06
+    label: standalone zip
+    description: Observed composite architecture through public BDR API sampling.
+    exemplar_pids: []
+    observed_count: 1
+    signature:
+      component_hashes: &id041
+        parent_relationship: fb640bf2e6f3
+        parent_object_definition: 6fc35db2fc8b
+        children: c382515fc824
+        open_access: 61d1d170acad
+        visibility: b1e37c0c0392
+        auxiliary_relationships: 2a72e0d30047
+    component_hashes: *id041
+  standalone_video_8f50055c6426:
+    signature_hash: 8f50055c6426
+    label: standalone video
+    description: Observed composite architecture through public BDR API sampling.
+    exemplar_pids: []
+    observed_count: 1
+    signature:
+      component_hashes: &id042
+        parent_relationship: fb640bf2e6f3
+        parent_object_definition: 0633df4779db
+        children: c382515fc824
+        open_access: 17a27c6502c8
+        visibility: b1e37c0c0392
+        auxiliary_relationships: 2a72e0d30047
+    component_hashes: *id042
+  standalone_zip_542c3a31eddc:
+    signature_hash: 542c3a31eddc
+    label: standalone zip
+    description: Observed composite architecture through public BDR API sampling.
+    exemplar_pids: []
+    observed_count: 1
+    signature:
+      component_hashes: &id043
+        parent_relationship: fb640bf2e6f3
+        parent_object_definition: 7fe4397b2f77
+        children: c382515fc824
+        open_access: c5a534984db5
+        visibility: b1e37c0c0392
+        auxiliary_relationships: 2a72e0d30047
+    component_hashes: *id043
+  standalone_pdf_cf7efdc76fc2:
+    signature_hash: cf7efdc76fc2
+    label: standalone pdf
+    description: Observed composite architecture through public BDR API sampling.
+    exemplar_pids: []
+    observed_count: 1
+    signature:
+      component_hashes: &id044
+        parent_relationship: fb640bf2e6f3
+        parent_object_definition: a26a45533723
+        children: c382515fc824
+        open_access: c5a534984db5
+        visibility: b1e37c0c0392
+        auxiliary_relationships: 2a72e0d30047
+    component_hashes: *id044
+  standalone_zip_ea976697e005:
+    signature_hash: ea976697e005
+    label: standalone zip
+    description: Observed composite architecture through public BDR API sampling.
+    exemplar_pids: []
+    observed_count: 1
+    signature:
+      component_hashes: &id045
+        parent_relationship: fb640bf2e6f3
+        parent_object_definition: d3b2b0871948
+        children: c382515fc824
+        open_access: c5a534984db5
+        visibility: b1e37c0c0392
+        auxiliary_relationships: 2a72e0d30047
+    component_hashes: *id045
+  standalone_zip_293c11d297f5:
+    signature_hash: 293c11d297f5
+    label: standalone zip
+    description: Observed composite architecture through public BDR API sampling.
+    exemplar_pids: []
+    observed_count: 1
+    signature:
+      component_hashes: &id046
+        parent_relationship: fb640bf2e6f3
+        parent_object_definition: 7fe4397b2f77
+        children: c382515fc824
+        open_access: 17a27c6502c8
+        visibility: b1e37c0c0392
+        auxiliary_relationships: 2a72e0d30047
+    component_hashes: *id046
+  standalone_zip_0d7e0e96cb30:
+    signature_hash: 0d7e0e96cb30
+    label: standalone zip
+    description: Observed composite architecture through public BDR API sampling.
+    exemplar_pids: []
+    observed_count: 1
+    signature:
+      component_hashes: &id047
+        parent_relationship: fb640bf2e6f3
+        parent_object_definition: 9f206c5e8909
+        children: c382515fc824
+        open_access: 1ea7e092b412
+        visibility: b1e37c0c0392
+        auxiliary_relationships: 2a72e0d30047
+    component_hashes: *id047
+  standalone_pdf_eed0d78d709a:
+    signature_hash: eed0d78d709a
+    label: standalone pdf
+    description: Observed composite architecture through public BDR API sampling.
+    exemplar_pids: []
+    observed_count: 1
+    signature:
+      component_hashes: &id048
+        parent_relationship: fb640bf2e6f3
+        parent_object_definition: 02c0575c12ae
+        children: c382515fc824
+        open_access: 5980ed4e25b8
+        visibility: b1e37c0c0392
+        auxiliary_relationships: 2a72e0d30047
+    component_hashes: *id048
+  standalone_zip_a9011d538ad0:
+    signature_hash: a9011d538ad0
+    label: standalone zip
+    description: Observed composite architecture through public BDR API sampling.
+    exemplar_pids: []
+    observed_count: 1
+    signature:
+      component_hashes: &id049
+        parent_relationship: fb640bf2e6f3
+        parent_object_definition: 9f4f508af7d8
+        children: c382515fc824
+        open_access: 5980ed4e25b8
+        visibility: b1e37c0c0392
+        auxiliary_relationships: 2a72e0d30047
+    component_hashes: *id049
+  standalone_zip_135416d44a5a:
+    signature_hash: 135416d44a5a
+    label: standalone zip
+    description: Observed composite architecture through public BDR API sampling.
+    exemplar_pids: []
+    observed_count: 1
+    signature:
+      component_hashes: &id050
+        parent_relationship: fb640bf2e6f3
+        parent_object_definition: 9a086b815291
+        children: c382515fc824
+        open_access: c8aad4a9e46f
+        visibility: b1e37c0c0392
+        auxiliary_relationships: 2a72e0d30047
+    component_hashes: *id050
+  standalone_video_f330018e5b11:
+    signature_hash: f330018e5b11
+    label: standalone video
+    description: Observed composite architecture through public BDR API sampling.
+    exemplar_pids: []
+    observed_count: 1
+    signature:
+      component_hashes: &id051
+        parent_relationship: fb640bf2e6f3
+        parent_object_definition: 0633df4779db
+        children: c382515fc824
+        open_access: afb26eed3585
+        visibility: b1e37c0c0392
+        auxiliary_relationships: 2a72e0d30047
+    component_hashes: *id051
