@@ -14,7 +14,6 @@ signatures:
     - bdr:1104403
     - bdr:1104404
     - bdr:1104406
-    observed_count: 31
     signature:
       license: unknown
       rights_statement:
@@ -63,7 +62,6 @@ signatures:
     - bdr:2bsqcvhu
     - bdr:2mbft26n
     - bdr:2qxpg6tg
-    observed_count: 38
     signature:
       license:
       - All rights reserved
@@ -89,7 +87,7 @@ signatures:
     description: Observed open access evidence through public BDR API sampling.
     exemplar_pids:
     - bdr:4ew6xmmd
-    observed_count: 1
+    - bdr:ycg7znm3
     signature:
       license:
       - All rights reserved
@@ -467,6 +465,305 @@ signatures:
       - http://rightsstatements.org/vocab/InC/1.0/
       restriction_statement:
       - Collection is open for research.
+      access_control:
+        public:
+        - 'True'
+        brown:
+        - 'False'
+        private:
+        - 'False'
+      current_embargo_status:
+        status: unknown
+        years: unknown
+        computed_current_status: unknown
+  open_access_evidence_9d8916bc1514:
+    signature_hash: 9d8916bc1514
+    label: open access evidence
+    description: Observed open access evidence through public BDR API sampling.
+    exemplar_pids:
+    - bdr:419508
+    signature:
+      license: unknown
+      rights_statement:
+      - In Copyright
+      - http://rightsstatements.org/vocab/InC/1.0/
+      restriction_statement:
+      - Collection is open for research.
+      access_control:
+        public:
+        - 'True'
+        brown:
+        - 'False'
+        private:
+        - 'False'
+      current_embargo_status:
+        status: unknown
+        years: unknown
+        computed_current_status: unknown
+  open_access_evidence_fd347235a2f8:
+    signature_hash: fd347235a2f8
+    label: open access evidence
+    description: Observed open access evidence through public BDR API sampling.
+    exemplar_pids:
+    - bdr:4zy4kfpd
+    - bdr:7zqb7rbw
+    - bdr:dxnq989m
+    signature:
+      license: unknown
+      rights_statement: unknown
+      restriction_statement: unknown
+      access_control:
+        public:
+        - 'False'
+        brown:
+        - 'True'
+        private:
+        - 'False'
+      current_embargo_status:
+        status:
+        - embargoed
+        years:
+        - '2028'
+        computed_current_status: unknown
+  open_access_evidence_8109de154d01:
+    signature_hash: 8109de154d01
+    label: open access evidence
+    description: Observed open access evidence through public BDR API sampling.
+    exemplar_pids:
+    - bdr:733505
+    signature:
+      license: unknown
+      rights_statement:
+      - In Copyright
+      - http://rightsstatements.org/vocab/InC/1.0/
+      restriction_statement:
+      - Collection is open for research.
+      access_control:
+        public:
+        - 'True'
+        brown:
+        - 'True'
+        private:
+        - 'False'
+      current_embargo_status:
+        status: unknown
+        years:
+        - '2019'
+        computed_current_status: unknown
+  open_access_evidence_fac6542c867d:
+    signature_hash: fac6542c867d
+    label: open access evidence
+    description: Observed open access evidence through public BDR API sampling.
+    exemplar_pids:
+    - bdr:792644
+    signature:
+      license: unknown
+      rights_statement:
+      - In Copyright
+      - http://rightsstatements.org/vocab/InC/1.0/
+      restriction_statement:
+      - All rights reserved. Collection is open to the Brown community for research.
+      access_control:
+        public:
+        - 'False'
+        brown:
+        - 'True'
+        private:
+        - 'False'
+      current_embargo_status:
+        status:
+        - embargoed
+        years:
+        - '2020'
+        - '2022'
+        - '2024'
+        - '2026'
+        - '2028'
+        computed_current_status: unknown
+  open_access_evidence_6e9526c7f991:
+    signature_hash: 6e9526c7f991
+    label: open access evidence
+    description: Observed open access evidence through public BDR API sampling.
+    exemplar_pids:
+    - bdr:792831
+    - bdr:792898
+    signature:
+      license: unknown
+      rights_statement:
+      - In Copyright
+      - http://rightsstatements.org/vocab/InC/1.0/
+      restriction_statement:
+      - Collection is open for research.
+      access_control:
+        public:
+        - 'True'
+        brown:
+        - 'True'
+        private:
+        - 'False'
+      current_embargo_status:
+        status: unknown
+        years:
+        - '2020'
+        computed_current_status: unknown
+  open_access_evidence_3ecef5c26353:
+    signature_hash: 3ecef5c26353
+    label: open access evidence
+    description: Observed open access evidence through public BDR API sampling.
+    exemplar_pids:
+    - bdr:918848
+    signature:
+      license: unknown
+      rights_statement:
+      - In Copyright
+      - http://rightsstatements.org/vocab/InC/1.0/
+      restriction_statement:
+      - All rights reserved. Collection is open to the Brown community for research.
+      access_control:
+        public:
+        - 'True'
+        brown:
+        - 'True'
+        private:
+        - 'False'
+      current_embargo_status:
+        status: unknown
+        years:
+        - '2021'
+        - '2023'
+        computed_current_status: unknown
+  open_access_evidence_776ce83aea00:
+    signature_hash: 776ce83aea00
+    label: open access evidence
+    description: Observed open access evidence through public BDR API sampling.
+    exemplar_pids:
+    - bdr:918950
+    signature:
+      license: unknown
+      rights_statement:
+      - In Copyright
+      - http://rightsstatements.org/vocab/InC/1.0/
+      restriction_statement:
+      - All rights reserved. Collection is open to the Brown community for research.
+      access_control:
+        public:
+        - 'True'
+        brown:
+        - 'True'
+        private:
+        - 'False'
+      current_embargo_status:
+        status: unknown
+        years:
+        - '2021'
+        computed_current_status: unknown
+  open_access_evidence_f799e106a804:
+    signature_hash: f799e106a804
+    label: open access evidence
+    description: Observed open access evidence through public BDR API sampling.
+    exemplar_pids:
+    - bdr:919152
+    signature:
+      license: unknown
+      rights_statement:
+      - In Copyright
+      - http://rightsstatements.org/vocab/InC/1.0/
+      restriction_statement:
+      - All rights reserved. Collection is open to the Brown community for research.
+      access_control:
+        public:
+        - 'False'
+        brown:
+        - 'True'
+        private:
+        - 'False'
+      current_embargo_status:
+        status: unknown
+        years: unknown
+        computed_current_status: unknown
+  open_access_evidence_ce4479c25ee6:
+    signature_hash: ce4479c25ee6
+    label: open access evidence
+    description: Observed open access evidence through public BDR API sampling.
+    exemplar_pids:
+    - bdr:ddndeysw
+    - bdr:e9hx8kge
+    - bdr:p8mvz7yz
+    signature:
+      license: unknown
+      rights_statement: unknown
+      restriction_statement: unknown
+      access_control:
+        public:
+        - 'True'
+        brown:
+        - 'True'
+        private:
+        - 'False'
+      current_embargo_status:
+        status: unknown
+        years:
+        - '2024'
+        computed_current_status: unknown
+  open_access_evidence_c09d1a22dce4:
+    signature_hash: c09d1a22dce4
+    label: open access evidence
+    description: Observed open access evidence through public BDR API sampling.
+    exemplar_pids:
+    - bdr:e5hrgd48
+    signature:
+      license: unknown
+      rights_statement: unknown
+      restriction_statement: unknown
+      access_control:
+        public:
+        - 'True'
+        brown:
+        - 'True'
+        private:
+        - 'False'
+      current_embargo_status:
+        status: unknown
+        years:
+        - '2025'
+        computed_current_status: unknown
+  open_access_evidence_ff33c20a9eff:
+    signature_hash: ff33c20a9eff
+    label: open access evidence
+    description: Observed open access evidence through public BDR API sampling.
+    exemplar_pids:
+    - bdr:ennmb8um
+    - bdr:tq3kugds
+    - bdr:wn3ug5yb
+    signature:
+      license: unknown
+      rights_statement: unknown
+      restriction_statement: unknown
+      access_control:
+        public:
+        - 'False'
+        brown:
+        - 'True'
+        private:
+        - 'False'
+      current_embargo_status:
+        status:
+        - embargoed
+        years:
+        - '2027'
+        computed_current_status: unknown
+  open_access_evidence_3bb0bf3f8f84:
+    signature_hash: 3bb0bf3f8f84
+    label: open access evidence
+    description: Observed open access evidence through public BDR API sampling.
+    exemplar_pids:
+    - bdr:fbk28sv9
+    - bdr:g4nafp2t
+    - bdr:uphcne3d
+    signature:
+      license: unknown
+      rights_statement: unknown
+      restriction_statement: unknown
       access_control:
         public:
         - 'True'
